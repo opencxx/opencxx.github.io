@@ -2,20 +2,18 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
-# Site标题
-title: Cxx's 主页
+# Site
+title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: OpenCxx
-language: zh
+author: John Doe
+language: en
 timezone: ''
 
 # URL
-## Set your site url here. 
-## For example, if you use GitHub Page, 
-## set url as 'https://username.github.io/project'
-url: https://opencxx.github.io
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+url: http://example.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -34,7 +32,6 @@ skip_render:
 
 # Writing
 new_post_name: :title.md # File name of new posts
-# 默认布局
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link:
