@@ -2,18 +2,20 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
-# Site
-title: Hexo
+# Site标题
+title: Cxx's 主页
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: OpenCxx
+language: zh
 timezone: ''
 
 # URL
-## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+## Set your site url here. 
+## For example, if you use GitHub Page, 
+## set url as 'https://username.github.io/project'
+url: https://opencxx.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
