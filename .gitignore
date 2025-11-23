@@ -25,3 +25,9 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
+
+
+# 忽略 IDE 配置
+.vscode/
+.idea/
+
